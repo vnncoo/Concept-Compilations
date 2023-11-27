@@ -2,13 +2,22 @@ The Idea is to make an App/Site for Baranggays and Municipalities to further dig
 
 The functions I'm planning to implement:
 
-1) Scheduling
-  1.1) -I'm thinking of a function that allows users to check available dates for geting certain papers.
-  They will be able to schedule their visit depending on the vacant time and slot for the specific date.
+0 (REGISTRATION)
+  0.1) -This is ofcourse a given, to avoid fake Scheduling and increase security in the app.
+       -Users will be required to choose their Municipality so that they get the correct information they need in the app
 
-  1.1 - Possible issues)
-    -If the 1.1 was to be implemented, it might cause problems because if we are to implement that function,
-    we'll have to determine how to get the vacant time. It will require lots of data and it can fluctuate.
-    Choosing it might lead to inaccuracy.
+1) Scheduling
+   1.1) -I'm thinking of a function that allows users to check available dates for geting certain papers.
+       They will be able to schedule their visit depending on the vacant time and slot for the specific date.
+
+   1.1 - Possible issues)
+      -If the 1.1 was to be implemented, it might cause problems because if we are to implement that function,
+      we'll have to determine how to get the vacant time. It will require lots of data and it can fluctuate.
+      Choosing it might lead to inaccuracy.
       
-  1.2)
+   1.2) -I'm thinking we can just put the amount of people that scheduled for a specific task in a specific date.
+       This will allow the people planning to schedule to see whether the date they chose is already flooded or not.
+
+2) Announcements
+   1.1) -I'm thinking of a function that gives announcements to a user based on their Municipality.
+       Basically a function where users can get relevant news/updates/announcements about the areas that they selected
