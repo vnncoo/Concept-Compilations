@@ -1,0 +1,14 @@
+The Idea is to make an App/Site for Baranggays and Municipalities to further digitalize most of their processes
+
+The functions I'm planning to implement:
+
+1) Scheduling
+  1.1) -I'm thinking of a function that allows users to check available dates for geting certain papers.
+  They will be able to schedule their visit depending on the vacant time and slot for the specific date.
+
+  1.1 - Possible issues)
+    -If the 1.1 was to be implemented, it might cause problems because if we are to implement that function,
+    we'll have to determine how to get the vacant time. It will require lots of data and it can fluctuate.
+    Choosing it might lead to inaccuracy.
+      
+  1.2)
