@@ -39,3 +39,4 @@ The functions I'm planning to implement:
    4.4) -Reminders
          Regulation reminders for events like fireworks regulation for New-Years eve and events where reminders are necessary.
          Reminders when there are calamities such as earthquakes, storms, tsunamis and many more.
+   // More to be added
