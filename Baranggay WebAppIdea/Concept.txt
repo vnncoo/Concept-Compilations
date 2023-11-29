@@ -21,3 +21,6 @@ The functions I'm planning to implement:
 2) Announcements
    1.1) -I'm thinking of a function that gives announcements to a user based on their Municipality.
        Basically a function where users can get relevant news/updates/announcements about the areas that they selected
+
+3) Job Postings
+  1.1) A job posting for job vacancies in the specific area the user is residing in.
