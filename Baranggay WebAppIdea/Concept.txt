@@ -30,6 +30,12 @@ The functions I'm planning to implement:
 
 4) Postings
    4.1) -Job posting
+         Available job openings based on the specific municipality of the user.
    4.2) -Lost and Found
          Informations about the lost items should be provided by the one who lost the item,
          contact number, possible reward and all details needed will be posted for the public to know.
+   4.3) -Meetings/Gatherings
+         Posts about meetings will be posted on postings but also highlighted in the Schedule
+   4.4) -Reminders
+         Regulation reminders for events like fireworks regulation for New-Years eve and events where reminders are necessary.
+         Reminders when there are calamities such as earthquakes, storms, tsunamis and many more.
