@@ -20,4 +20,4 @@ For Google:
 I will design a loading animation in the beginning
 The loading will basically go like I was typing my name on google then transition to the Main interface.
 
-//A lot of things still needs fixing so...
+//A lot of things still needs fixing so.
