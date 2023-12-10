@@ -10,6 +10,6 @@ I also made this repository to keep track of great ideas and concepts I can use 
 Anybody interested in working with any of the ideas in this repository is free to do so. If you're also interested in working on it with me
 Contact me: (vnncoo@gmail.com)
 
--ivann
+-IvannC
 
 //THIS REPOSITORY IS A COMPILATION OF IDEAS I HAVE / HAD / ABANDONED
