@@ -1,5 +1,7 @@
 The Idea is to make an App/Site for Baranggays and Municipalities to further digitalize most of their processes
 
+This will probably my Capstone project. I am and will be looking for people to participate in this project with me.
+
 The functions I'm planning to implement:
 
 0 (REGISTRATION)
