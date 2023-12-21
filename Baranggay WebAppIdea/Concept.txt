@@ -42,3 +42,4 @@ The functions I'm planning to implement:
          Regulation reminders for events like fireworks regulation for New-Years eve and events where reminders are necessary.
          Reminders when there are calamities such as earthquakes, storms, tsunamis and many more.
    // More to be added
+   // Edit cause my PC is currently broken :( Farming fake contri for consistency :(
